@@ -1,22 +1,14 @@
-# codesandbox-nuxt
+<h1 align="center">Flash_Calculation</h1>
+<p align="center">
+<a href="http://makeapullrequest.com">
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+</a>
+</p>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18276888/69108733-f2ae7080-0ab8-11ea-9298-f5e12e30a3ca.png" width="250">
+</p>
 
-> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## 概要
+フラッシュ暗算で遊べます。
